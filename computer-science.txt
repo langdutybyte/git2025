@@ -1,6 +1,0 @@
-cs196  cs194
-llm
-ai agent
-cs60
-moonshot
-deepseek
