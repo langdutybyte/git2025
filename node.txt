@@ -7,4 +7,8 @@ nvda
 ddsdga
 1
 1dsfsfs
+ HEAD
 111
+
+nasdaq
+ 65baf7ac887f9f748e49e3a58f85309b80159dc6
